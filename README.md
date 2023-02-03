@@ -1,14 +1,14 @@
-Olá! Seja bem vindo! ✨
+Olá! Seja bem vindo! 🪐
 
 <img align="center" alt="Hello-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/123611225/216557513-64cbf7da-fb09-43cf-a812-4e587129df72.gif">
 
 Sou a Alessa e fico feliz em te receber, fique a vontade ✨ Mi casa es su casa ✨
 
-👩🏻‍💻 Curso o superior de Sistemas para internet <img align="center" alt="Hello-pic" height="20" style="border-radius:50px;" src="https://user-images.githubusercontent.com/123611225/216558039-78e99dfc-fc16-4212-b029-b578ce95cb52.png">
+💻 Curso o superior de Sistemas para internet <img align="center" alt="Hello-pic" height="20" style="border-radius:50px;" src="https://user-images.githubusercontent.com/123611225/216558039-78e99dfc-fc16-4212-b029-b578ce95cb52.png">
 
-👩🏻‍🏫 Focada em estudar linguagens SQL
+📚 Focada em estudar linguagens SQL
 
-🙌🏼 Amo estruturar tabelas e desenvolver querys.
+💌 Amo estruturar tabelas e desenvolver querys.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
