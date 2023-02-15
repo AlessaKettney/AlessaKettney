@@ -4,21 +4,21 @@ Olá! Seja bem vindo! 🪐
 
 Sou a Alessa e fico feliz em te receber, fique a vontade ✨ Mi casa es su casa ✨
 
-💻 Curso o superior de Sistemas para internet <img align="center" alt="Hello-pic" height="20" style="border-radius:50px;" src="https://user-images.githubusercontent.com/123611225/216558039-78e99dfc-fc16-4212-b029-b578ce95cb52.png">
+💻 Curso o superior de Sistemas para internet <img align="center" height="20" style="border-radius:50px;" src="https://user-images.githubusercontent.com/123611225/216558039-78e99dfc-fc16-4212-b029-b578ce95cb52.png">
 
 📚 Focada em estudar linguagens SQL
 
 💌 Amo estruturar tabelas e desenvolver querys.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 
 ##
 
-target=_blank[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/)
-target=_blank[![WHATS](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/PNVKTZJW5U7RL1)
-target=_blank[![lINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessakettney/)
+<a target=_blank>[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/)</a>
+<a target=_blank>[![WHATS](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/PNVKTZJW5U7RL1)</a>
+<a target=_blank>[![lINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessakettney/)</a>
 
 
           
