@@ -18,7 +18,7 @@ Sou a Alessa e fico feliz em te receber, fique a vontade ✨ Mi casa es su casa 
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/)
 [![WHATS](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/PNVKTZJW5U7RL1)
-[![lINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessa-kettney-364354263/)
+[![lINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/alessakettney/)
 
 
           
